@@ -39,13 +39,13 @@ const rooms=[
 ]
 
 
-// Creating the starting page of server
+// Starting page of server
 app.get('/',(req,res)=>{
-    res.send("<h1>Submitted and coded by Jagadeesh Kumar . S, you may send mail to my email address which is jagadeesh_2k17@proton.me, you may contribute some money to my Indian Unified Payment Interface (UPI) which is jagadeesh-kumar@ybl .</h1><br/>");
+    res.send("<body style='color:white; background-color:black;'><h3>Submitted and coded by Jagadeesh Kumar . S, you may send mail to my email address which is jagadeesh_2k17@proton.me, you may contribute some money to my Indian Unified Payment Interface (UPI) which is jagadeesh-kumar@ybl .</h3><br/><h2>Get methods are followings<br/> 1. /<br/> 2. /listCustomer <br/>3. /listRooms <br/> <br/> Post methods are followings <br/>1. /createRoom<br/>2. /bookRoom<br/></h4><br/><h3>Submitted and coded by Jagadeesh Kumar . S, you may send mail to my email address which is jagadeesh_2k17@proton.me, you may contribute some money to my Indian Unified Payment Interface (UPI) which is jagadeesh-kumar@ybl .</h3><br/></body>");
 })
 
 
-//create room
+// create room
 app.post("/createRoom",(req,res)=>{
 
     rooms.push({
@@ -135,7 +135,7 @@ app.get("/listRooms",(req,res)=>{
 })
 
 
-// Making the server to sun on port.
+// Making the server to run on port.
 const port =process.env.PORT || 3001
 app.listen(port,()=>{
     console.log("server running in port",port)
