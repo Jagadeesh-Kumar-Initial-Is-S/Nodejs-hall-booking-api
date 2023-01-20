@@ -28,6 +28,8 @@ Back-end Source code's link is equal to https://github.com/Jagadeesh-Kumar-Initi
 
 Back-end Deployed URL's link is equal to https://nodejs-hall-booking-api.vercel.app
 
+<hr/>
+
 # Screenshots 
 
 ### Screenshot 1:
