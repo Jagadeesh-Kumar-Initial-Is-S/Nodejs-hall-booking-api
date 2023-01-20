@@ -37,6 +37,14 @@ const rooms=[
         }]
     }
 ]
+
+
+// Creating the starting page of server
+app.get('/',(req,res)=>{
+    res.send("<h1>Submitted and coded by Jagadeesh Kumar . S, you may send mail to my email address which is jagadeesh_2k17@proton.me, you may contribute some money to my Indian Unified Payment Interface (UPI) which is jagadeesh-kumar@ybl .</h1><br/>");
+})
+
+
 //create room
 app.post("/createRoom",(req,res)=>{
 
@@ -95,6 +103,7 @@ for(let i=0;i<rooms.length;i++)
     
 }
 })
+
 
 //List the customers
 
