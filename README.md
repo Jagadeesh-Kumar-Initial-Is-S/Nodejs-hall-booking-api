@@ -54,12 +54,12 @@ Back-end Deployed URL's link is equal to https://nodejs-hall-booking-api.vercel.
 
 package.json
 
-![image](https://user-images.githubusercontent.com/115778774/213675247-cc45f7ce-1a79-408c-8052-8ca427709504.png)
+![image](https://user-images.githubusercontent.com/115778774/213677772-b23f841e-e4bb-4ae9-b4a6-695354d4fd95.png)
 
 ### Screenshot 4:
 
 vercel.json
 
-![image](https://user-images.githubusercontent.com/115778774/213675451-8d42b640-2654-4e89-a18c-fc9f9a95caf4.png)
+![image](https://user-images.githubusercontent.com/115778774/213677826-a4a6c897-a6ca-4c2d-b2e2-01d5f1d2057d.png)
 
 <hr/>
