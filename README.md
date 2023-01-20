@@ -8,7 +8,7 @@ Submitted and coded by Jagadeesh Kumar . S, you may send mail to my email addres
 
 # Task 
 
-Nodejs hall booking api task https://docs.google.com/document/d/1rwPQ2LbHtMZajA_GIZfR-Ko2MFueoT82AmfHTK9V-hM/edit
+Nodejs hall booking api task https://docs.google.com/document/d/1rwPQ2LbHtMZajA_GIZfR-Ko2MFueoT82AmfHTK9V-hM/edit .
 
 <hr/>
 
@@ -20,13 +20,19 @@ Back-end which is used is equal to NodeJs or Node.js
 
 # Back-end Source code
 
-Back-end Source code's link is equal to https://github.com/Jagadeesh-Kumar-Initial-Is-S/Nodejs-hall-booking-api
+Back-end Source code's link is equal to https://github.com/Jagadeesh-Kumar-Initial-Is-S/Nodejs-hall-booking-api .
 
 <hr/>
 
 # Back-end Deployed URL
 
-Back-end Deployed URL's link is equal to https://nodejs-hall-booking-api.vercel.app.
+Back-end Deployed URL's link is equal to https://nodejs-hall-booking-api.vercel.app .
+
+<hr/>
+
+# Documentation on Postman
+
+Documentation on Postman's link is equal to https://documenter.getpostman.com/view/25437042/2s8ZDX5P3f .
 
 <hr/>
 
